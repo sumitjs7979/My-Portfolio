@@ -1,4 +1,6 @@
-
+#root{
+    zoom: 150%;
+  }
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
