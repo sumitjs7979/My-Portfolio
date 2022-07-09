@@ -46,7 +46,7 @@ I am proficient in JavaScript, HTML, CSS, React JS, MongoDB, Node JS and Express
             </a>
           </div>
         </div>
-        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6"  style={{width:"30%",height:"30%"}}>
+        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6"  style={{width:"26%",height:"26%"}}>
           <img
             className="object-cover object-center rounded md:rounded-lg"
            

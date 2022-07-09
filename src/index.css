@@ -1,5 +1,15 @@
-#root{
+/* #root{
     zoom: 150%;
+  } */
+  @media screen and (min-width: 1280px) {
+    #root {
+       zoom: 125%;
+    }
+  }
+  @media screen and (min-width: 1536px) {
+    #root {
+      zoom:150%;
+    }
   }
 @tailwind base;
 @tailwind components;

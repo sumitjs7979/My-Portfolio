@@ -46,15 +46,15 @@ export default function Projects() {
                      <p className="absolute bottom-0 left-3 flex m-1">
 
   <span className="m-1">
-<a href="https://github.com/sumitjs7979" target="blank">
+<a href={project.github} target="blank">
 <FaGithub /></a>
   </span>
   <span className="m-1">
-  <a href="https://twitter.com/Sumit61487349" target="blank">
+  <a href={project.medium} target="blank">
   <FaMedium /></a>
   </span>
   <span className="m-1">
-<a href="https://www.linkedin.com/in/sumit-kumar2702/" target="blank" >
+<a href={project.link} target="blank" >
 <ArrowRightIcon className="w-4 h-4" /></a>
   </span>
   
